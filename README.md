@@ -28,9 +28,6 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/parthi1201">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthi1201&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/parthi1201">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthi1201&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
