@@ -28,6 +28,8 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/parthi1201">
+    <img src="https://github-readme-stats.vercel.app/api?username=parthi1201&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthi1201&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
@@ -50,10 +52,14 @@
   </a>
 </p>
 
+---
+
+### 💻 Coding Philosophy:
 ```java
 if (codingBreakRequired) {
     while (stressLevel > relaxed) {
         playGame();
         stressLevel--;
     }
-} // - Parthipan K
+}
+// - Parthipan K
