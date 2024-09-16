@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="left">
-  <b>Skills:</b> Java, C/C++, MySQL, HTML, CSS<br>
+  <b>Skills:</b> Java, Python, C/C++, MySQL, HTML, CSS<br>
   <b>Tools:</b> Git, VS Code, Linux
 </p>
 
