@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Parthipan+K;Backend+Developer;Go+%7C+Microservices+%7C+Systems" />
 </h1>
 
-<p align="center">
-  <strong>Backend Developer | Go | Microservices | Distributed Systems</strong>
-</p>
 
 ---
 
