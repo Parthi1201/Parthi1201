@@ -14,14 +14,15 @@
 - ⚙️ Skilled in **Go, REST, gRPC, and event-driven architectures**
 - 🔗 Experience integrating external systems (**Tameeni, GOSI, Dakhli, TAMM, Arib, Concord**)
 - 🧠 Strong focus on **system design, scalability, and production debugging**
-- 🐧 Comfortable with **Linux-based debugging and observability improvements**
+- 🔐 Exploring **backend security & cybersecurity concepts**
+- 🐧 Comfortable with **Linux debugging and observability improvements**
 - 📫 Reach me at: **parthipank2004@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Go, Java, Python, C, C++  
+**Languages:** Go (Primary), Java, Python, C, C++  
 **Backend:** REST APIs, gRPC, Microservices, Event-driven systems  
 **Frameworks:** Kratos, Gin, mux  
 **Databases:** PostgreSQL, MySQL  
@@ -39,18 +40,29 @@
 - Clean architecture (**handler → service → data → mapper**)
 - Uses **PostgreSQL, Docker, Snowflake ID generation**
 
-👉 [View Repository](https://github.com/Parthi1201/Enterprise_Fintech_Platform)
+👉 https://github.com/Parthi1201/Enterprise_Fintech_Platform
+
+---
+
+## 📊 Languages & Activity (Dynamic)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthi1201&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parthi1201&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🧰 Tech Highlights
 
-![Go](https://img.shields.io/badge/Go-Backend-blue?style=for-the-badge&logo=go)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-Communication-purple?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/gRPC-Communication-6A1B9A?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker" />
+</p>
 ---
 
 ## 🔗 Connect with Me
