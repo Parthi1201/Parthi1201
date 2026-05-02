@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Parthi1201&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi1201&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Parthi1201&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Parthi1201&layout=compact&theme=tokyonight" />
 </p>
 
 ---
