@@ -43,12 +43,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Highlights
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Parthi1201&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Parthi1201&layout=compact&theme=tokyonight" />
-</p>
+![Go](https://img.shields.io/badge/Go-Backend-blue?style=for-the-badge&logo=go)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-Communication-purple?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
 
 ---
 
