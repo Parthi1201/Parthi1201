@@ -64,15 +64,6 @@
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parthi1201/Parthi1201/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🔗 Connect with Me
 
