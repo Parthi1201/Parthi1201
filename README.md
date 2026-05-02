@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Parthipan+K;Backend+Developer;Go+%7C+Microservices+%7C+Systems" />
 </h1>
 
+<p align="center">
+  <strong>Backend Developer | Go | Microservices | Distributed Systems</strong>
+</p>
 
 ---
 
@@ -41,7 +44,7 @@
 
 ---
 
-## 📊 Languages & Activity (Dynamic)
+## 📊 Languages & Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthi1201&theme=tokyonight" />
@@ -61,6 +64,15 @@
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Parthi1201/Parthi1201/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 🔗 Connect with Me
 
