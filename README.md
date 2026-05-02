@@ -27,10 +27,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/parthi1201">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthi1201&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/Parthi1201">
+    <img src="https://github-readme-stats.vercel.app/api?username=Parthi1201&show_icons=true&theme=radical" alt="GitHub Stats" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthi1201&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi1201&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
